@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Sn0w-Plut0
 Depends: winterboard
 Filename: ./debs//com.sn0w-plut0.customtheme_0.0.0.0.0.1_iphoneos-arm.deb
-Size: 868
-MD5sum: 9c351a3e3544820ba0cbb253ed558b08
-SHA1: 66d28ee7cb87b8daac4ea5598fb2ba95772ccb33
-SHA256: a7f7a9f6ebaea509356f2ac86fb0b7ad71173d4d76d925cc1813dc2bb2c1e5c8
+Size: 1470
+MD5sum: 248e564f9e3b034c38d6f44ca5ea6e77
+SHA1: a81d0410fc4350f96d0dc1052f64e3502180f68a
+SHA256: a6fa20338b479d492b0a987bc0931379dcfa90e27cb8e856e6dd9af96ce5080e
 Section: Themes (SpringBoard)
 Description: WinterboardTheme Test
 Author: Not sure
