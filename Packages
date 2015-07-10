@@ -4,12 +4,26 @@ Architecture: iphoneos-arm
 Maintainer: Sn0w-Plut0
 Depends: winterboard
 Filename: ./debs//com.sn0w-plut0.customtheme_0.0.0.0.0.1_iphoneos-arm.deb
-Size: 868
-MD5sum: 9c351a3e3544820ba0cbb253ed558b08
-SHA1: 66d28ee7cb87b8daac4ea5598fb2ba95772ccb33
-SHA256: a7f7a9f6ebaea509356f2ac86fb0b7ad71173d4d76d925cc1813dc2bb2c1e5c8
+Size: 598
+MD5sum: ba45d6e4d50381370b661f6bf7179888
+SHA1: 59d83f68d9c1cb30af2c47b64bd49d572e38decb
+SHA256: 0ff1c6ce37a8e827065cc9adcbb97b94bd5eb8caab40dd2663e330ee2620f3b5
 Section: Themes (SpringBoard)
 Description: WinterboardTheme Test
 Author: Not sure
 Name: CustomTheme
+
+Package: com.Sn0w-Plut0.Xcode
+Version: 5enne
+Architecture: iphoneos-arm
+Maintainer: Sn0w-Plut0
+Filename: ./debs//com.sn0w-plut0.xcode_5enne_iphoneos-arm.deb
+Size: 70884
+MD5sum: 075821533675012ea1ad8b5a5a78b59d
+SHA1: 635ad40e53c733911712154361291671782da4d1
+SHA256: 549db28e874dfc325a804921f8215d11f9078c9d5d8e6d90aa4d8598e13801db
+Section: Cheats
+Description: Localliappstore
+Author: Not sure
+Name: LocalliAPstore
 

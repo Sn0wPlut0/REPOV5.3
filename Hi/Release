@@ -1,0 +1,8 @@
+Origin: Sn0w_Plut0 Repo
+Label: Sn0w_Plut0
+Suite: stable
+Version: 5.3
+Codename: Tangatella
+Architectures: iphoneos-arm
+Components: main
+Description: This is a public repo
