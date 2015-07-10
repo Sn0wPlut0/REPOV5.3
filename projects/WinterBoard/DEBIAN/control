@@ -1,0 +1,9 @@
+Package: com.Sn0w-Plut0.CustomTheme
+Name: CustomTheme
+Depends: winterboard
+Version: 0.0.0.0.0.1
+Architecture: iphoneos-arm
+Description: WinterboardTheme Test
+Maintainer: Sn0w-Plut0
+Author: Not sure
+Section: Themes (SpringBoard)
